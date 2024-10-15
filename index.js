@@ -1,0 +1,3 @@
+const heading=React.createElement("div",{id:"container3"},[React.createElement("div",{id:"container2"},React.createElement("h1",{id:"h1",className:"h1child1"},"sravani Pulagam welcome")),React.createElement("div",{id:"container2"},React.createElement("h1",{id:"h1",className:"h1child2"},"Santha Pulagam welcome"))]);
+const root=ReactDOM.createRoot(document.getElementById("container"));
+root.render(heading)
